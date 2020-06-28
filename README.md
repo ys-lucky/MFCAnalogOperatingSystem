@@ -24,7 +24,7 @@
 
 ### 分配进程
 
-![分配进程](C:\Users\11527\Desktop\Code\学习整理文档\md\MFC 模拟操作系统.assets\分配进程.gif)
+![分配进程](https://github.com/ys-lucky/MFCAnalogOperatingSystem/tree/master/DemoGif/分配进程.gif)
 
 ### 执行调度
 
