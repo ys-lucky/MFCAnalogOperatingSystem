@@ -25,7 +25,7 @@
 
 
 #include <afxdisp.h>        // MFC 自动化类
-#import "../Release/msxml6.dll"
+#import "..\Release\msxml6.dll"
 #import "..\Release/msadox.dll"
 #import "..\Release\msado15.dll" no_namespace rename("EOF","adoEOF")//调用ADC动态链接库
 

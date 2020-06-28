@@ -1181,7 +1181,7 @@ void CAnalogSystemDlg::OnBnClickedButtonExportexcel()
 {
 	// TODO: 在此添加控件通知处理程序代码
 	CFileDialog SaveDlg(FALSE,  _T(".xlsx"), _T("调度信息"), OFN_HIDEREADONLY|OFN_READONLY|OFN_OVERWRITEPROMPT ,
-		_T("Excel File(*.xls;*.xlsx)|*.xls;*.xlsx|all file(*.*)|*.*||"),NULL);//另存为对话框,默认编辑框“宗地汇总表.xls”
+		_T("Excel File(*.xlsx)|*.xlsx|all file(*.*)|*.*||"),NULL);//另存为对话框,默认编辑框“调度信息.xlsx”
 
 
 	INT_PTR Result = SaveDlg.DoModal();//模态显示另存为对话框

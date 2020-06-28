@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (0d8ce795).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (98627ad0).
 //
-// c:\users\11527\desktop\code\myproject\analogsystem\analogsystem\release\msxml6.tlh
+// c:\users\11527\desktop\code\myproject\mfc\模拟操作系统\analogsystem\analogsystem\release\msxml6.tlh
 //
-// C++ source equivalent of Win32 type library ../Release/msxml6.dll
-// compiler-generated file created 12/08/19 at 17:10:33 - DO NOT EDIT!
+// C++ source equivalent of Win32 type library ..\Release\msxml6.dll
+// compiler-generated file created 05/02/20 at 11:54:56 - DO NOT EDIT!
 
 #pragma once
 #pragma pack(push, 8)
@@ -4640,7 +4640,7 @@ ISchemaNotation : ISchemaItem
 // Wrapper method implementations
 //
 
-#include "c:\users\11527\desktop\code\myproject\analogsystem\analogsystem\release\msxml6.tli"
+#include "c:\users\11527\desktop\code\myproject\mfc\模拟操作系统\analogsystem\analogsystem\release\msxml6.tli"
 
 } // namespace MSXML2
 

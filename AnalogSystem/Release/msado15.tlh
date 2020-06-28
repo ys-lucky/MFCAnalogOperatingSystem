@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (b9a0c9a6).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (b69a4ba2).
 //
-// c:\users\11527\desktop\code\myproject\analogsystem\analogsystem\release\msado15.tlh
+// c:\users\11527\desktop\code\myproject\mfc\模拟操作系统\analogsystem\analogsystem\release\msado15.tlh
 //
 // C++ source equivalent of type library ..\Release\msado15.dll
-// compiler-generated file created 12/08/19 at 17:10:33 - DO NOT EDIT!
+// compiler-generated file created 05/02/20 at 11:54:56 - DO NOT EDIT!
 
 #pragma once
 #pragma pack(push, 8)
@@ -5022,6 +5022,6 @@ _Record_Deprecated : _ADO
 // Wrapper method implementations
 //
 
-#include "c:\users\11527\desktop\code\myproject\analogsystem\analogsystem\release\msado15.tli"
+#include "c:\users\11527\desktop\code\myproject\mfc\模拟操作系统\analogsystem\analogsystem\release\msado15.tli"
 
 #pragma pack(pop)

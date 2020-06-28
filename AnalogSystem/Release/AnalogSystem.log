@@ -1,17 +1,15 @@
-﻿生成启动时间为 2019/12/12 16:27:27。
-     1>项目“C:\Users\11527\Desktop\Code\myProject\AnalogSystem\AnalogSystem\AnalogSystem.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2020/5/2 11:57:21。
+     1>项目“C:\Users\11527\Desktop\Code\myProject\mfc\模拟操作系统\AnalogSystem\AnalogSystem\AnalogSystem.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Release\AnalogSystem.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
          所有输出均为最新。
-         C:\VS 2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AnalogSystem.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AnalogSystem.cpp AnalogSystemDlg.cpp ProcessDig.cpp
-         AnalogSystem.cpp
+         C:\VS 2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AnalogSystem.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AnalogSystemDlg.cpp
          AnalogSystemDlg.cpp
-         ProcessDig.cpp
        ResourceCompile:
          所有输出均为最新。
        Link:
-         C:\VS 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\11527\Desktop\Code\myProject\AnalogSystem\Release\AnalogSystem.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\AnalogSystem.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\11527\Desktop\Code\myProject\AnalogSystem\Release\AnalogSystem.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\11527\Desktop\Code\myProject\AnalogSystem\Release\AnalogSystem.lib" /MACHINE:X86 Release\AnalogSystem.res
+         C:\VS 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\11527\Desktop\Code\myProject\mfc\模拟操作系统\AnalogSystem\Release\AnalogSystem.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\AnalogSystem.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\11527\Desktop\Code\myProject\mfc\模拟操作系统\AnalogSystem\Release\AnalogSystem.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\11527\Desktop\Code\myProject\mfc\模拟操作系统\AnalogSystem\Release\AnalogSystem.lib" /MACHINE:X86 Release\AnalogSystem.res
          Release\AnalogSystem.obj
          Release\AnalogSystemDlg.obj
          Release\DataBase.obj
@@ -19,14 +17,14 @@
          Release\stdafx.obj
          正在生成代码
          已完成代码的生成
-         AnalogSystem.vcxproj -> C:\Users\11527\Desktop\Code\myProject\AnalogSystem\Release\AnalogSystem.exe
+         AnalogSystem.vcxproj -> C:\Users\11527\Desktop\Code\myProject\mfc\模拟操作系统\AnalogSystem\Release\AnalogSystem.exe
        Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\11527\Desktop\Code\myProject\AnalogSystem\Release\AnalogSystem.exe;#1" /manifest Release\AnalogSystem.exe.intermediate.manifest "C:\VS 2010\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\11527\Desktop\Code\myProject\mfc\模拟操作系统\AnalogSystem\Release\AnalogSystem.exe;#1" /manifest Release\AnalogSystem.exe.intermediate.manifest "C:\VS 2010\VC\Include\Manifest\dpiaware.manifest"
        FinalizeBuildStatus:
          正在删除文件“Release\AnalogSystem.unsuccessfulbuild”。
          正在对“Release\AnalogSystem.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“C:\Users\11527\Desktop\Code\myProject\AnalogSystem\AnalogSystem\AnalogSystem.vcxproj”(build 个目标)的操作。
+     1>已完成生成项目“C:\Users\11527\Desktop\Code\myProject\mfc\模拟操作系统\AnalogSystem\AnalogSystem\AnalogSystem.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.69
+已用时间 00:00:01.75
